@@ -1,1 +1,5 @@
 # MobileArch
+
+The purpose of the Weight Tracker mobile app is help users to manage weight by tracking daily weight and set weight reduction goals to stay fit. The users of the app include all age group from school kids to senior citizens. Considering diversity of the age groups, the UI is developed to be simple and user friendly. Any action such as setting goal weight, adding/updating/deleting daily weight and goal notification can be performed in 2 to 3 clicks.
+
+The app is developed using Model, View and Controller (MVC) approach and ensured that it is scalable and modularized. The app code is developed following coding best practices and any new developer can easily understand, maintain and enhance as needed further. The app is tested using Android simulator to make sure it is functioning well and error free. There were few features where I had to think out of the box and innovate to be successful. For example, displaying logo for the app on login screen, masking password characters, passing logged in username from one activity to another and database operations. I was able to do research, learn and complete successfully.
